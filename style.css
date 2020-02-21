@@ -62,3 +62,19 @@ button:hover{
 	color: white;
 	background-color: steelblue;
 }
+@media(max-width: 900px){
+h1{
+	color: white;
+	text-align: center;
+	background-color: steelblue;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+    line-height: 1.1;
+    padding:15px 0;
+    transition: background-color 0.6s;
+	}	
+#colordisplay{
+	font-size: 120%;
+}
+}
