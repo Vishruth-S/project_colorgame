@@ -1,2 +1,5 @@
 # colorgame_pro
-Just a mini colorgame project
+
+Web_dev_bootcamp 
+  Section 17 
+     Colour Game
